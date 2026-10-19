@@ -18,5 +18,9 @@ bugzoo setup
 Find and manage your Raspberry Pis from one Windows window: LAN scan, SSH terminal, remote desktop, status panel, SD card flashing.
 在同一個 Windows 視窗裡尋找並管理樹莓派:區網掃描、SSH、遠端桌面、狀態面板、燒錄 SD 卡。
 
+## Services | 接案
+[墨鋒 Inkacuity](https://inkacuity.com): document writing and formatting, slide design, simple video editing, small programs and automation scripts.
+文書製作、排版、簡報、簡單影片與小型程式製作。
+
 ## Contact | 聯絡
 Issues and PRs on any repo are welcome. 歡迎在任何專案開 Issue 或 PR。
