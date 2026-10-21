@@ -26,6 +26,20 @@ Find and manage your Raspberry Pis from one Windows window: LAN scan, SSH termin
 
 [![release](https://img.shields.io/github/v/release/MilkteaTW1/piscout)](https://github.com/MilkteaTW1/piscout/releases) [![stars](https://img.shields.io/github/stars/MilkteaTW1/piscout?style=flat)](https://github.com/MilkteaTW1/piscout)
 
+### 🟢 [slime-pi](https://github.com/MilkteaTW1/slime-pi)
+A slime that lives in your Raspberry Pi. Feed it files, say hi over SSH, and read its daily expedition report of your home network. It steps aside when the Pi runs low on resources.
+住在樹莓派裡的史萊姆。餵牠檔案、用 SSH 跟牠打招呼,每天讀牠寫的家庭網路探險報告;Pi 資源吃緊時牠會自己讓路。支援英文與繁體中文。
+
+<img src="https://raw.githubusercontent.com/MilkteaTW1/slime-pi/main/docs/demo.en.gif" alt="slime-pi demo" width="600">
+
+[![stars](https://img.shields.io/github/stars/MilkteaTW1/slime-pi?style=flat)](https://github.com/MilkteaTW1/slime-pi)
+
+### 🌐 [screen-translator](https://github.com/MilkteaTW1/screen-translator)
+Free, fully offline on-screen translator for Windows: Windows OCR plus Argos Translate, with the translation drawn right above the original text.
+免費、完全離線的 Windows 螢幕即時翻譯:用 Windows OCR 讀字、本機翻譯,並把譯文顯示在原文正上方。
+
+[![stars](https://img.shields.io/github/stars/MilkteaTW1/screen-translator?style=flat)](https://github.com/MilkteaTW1/screen-translator)
+
 ## Services | 接案
 [墨鋒 Inkacuity](https://inkacuity.com): document writing and formatting, slide design, simple video editing, small programs and automation scripts.
 文書製作、排版、簡報、簡單影片與小型程式製作。
