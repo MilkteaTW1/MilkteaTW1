@@ -41,8 +41,21 @@ Free, fully offline on-screen translator for Windows: Windows OCR plus Argos Tra
 [![stars](https://img.shields.io/github/stars/MilkteaTW1/screen-translator?style=flat)](https://github.com/MilkteaTW1/screen-translator)
 
 ## Services | 接案
-[墨鋒 Inkacuity](https://inkacuity.com): document writing and formatting, slide design, simple video editing, small programs and automation scripts.
-文書製作、排版、簡報、簡單影片與小型程式製作。
+**Available for freelance work. 目前可接案。** Run by [墨鋒 Inkacuity](https://inkacuity.com), usually delivered the same day. 一般當天交件。
+
+| Service 服務 | From 起價 | Details 詳情 |
+| --- | --- | --- |
+| Document formatting 文書排版 | NT$300 | [Details](https://inkacuity.com/services/document-formatting) |
+| Document writing 文書製作 | NT$300 | [Details](https://inkacuity.com/services/document-writing) |
+| Slide design 簡報製作 | NT$500 | [Details](https://inkacuity.com/services/slide-design) |
+| Simple programs and automation scripts 簡易程式與自動化腳本 | Quote 報價 | [Details](https://inkacuity.com/services/simple-programming) |
+| Simple video editing 簡單影片剪輯 | Quote 報價 | [Details](https://inkacuity.com/services/video-editing) |
+
+The tools above are my own work, so the code is public and you can judge it before you hire me. Custom features or integrations for any of them are available too.
+上面的工具都是我自己做的，程式碼公開，下單前就能檢視。也可以為其中任何一個做客製功能或整合。
 
 ## Contact | 聯絡
-Issues and PRs on any repo are welcome. 歡迎在任何專案開 Issue 或 PR。
+- Email: [ink@inkacuity.com](mailto:ink@inkacuity.com)
+- Request form 發案表單: [inkacuity.com/forms](https://inkacuity.com/forms)
+- Threads: [@inkacuity](https://www.threads.com/@inkacuity)
+- Issues and PRs on any repo are welcome. 歡迎在任何專案開 Issue 或 PR。
